@@ -1,6 +1,6 @@
 ---
 title: Tw0 - Canvas
-cover: canvas.jpg
+cover: canvas.jpeg
 date: 2023-04-09 16:24:25
 tags: [tag1]
 categories: 
